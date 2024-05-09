@@ -12,16 +12,16 @@ The project utilizes three key datasets:
 
 ## Usage
 - Open the Jupyter Notebook
-
 - Launch Jupyter Notebook or JupyterLab in the project directory:
 - bash - jupyter notebook or 
 - bash-jupyter lab
   
-1.Run the Notebook
-2.Open the Fresh_final_123456.ipynb notebook and execute the cells sequentially to:
+- 1.Run the Notebook
+- 2.Open the Fresh_final_123456.ipynb notebook and execute the cells sequentially to:
+- 
     - **Read and process the sequence data from Positive_dataset and Negative_dataset.**
     - **Extract features using biopython and propy.**
     - **Train the RandomForest model using 5-fold cross-validation.**
     - **Predict anti-inflammatory potential on the Candidate_dataset.**
-3.Predict New Data
+- 3.Predict New Data
     - **Modify the paths to your new sequence data in the notebook to predict their anti-inflammatory potential.**
