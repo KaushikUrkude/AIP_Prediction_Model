@@ -10,11 +10,13 @@ The project utilizes three key datasets:
 - **Negative_dataset**: This includes sequences confirmed not to have anti-inflammatory properties. They serve as negative examples in the model training process.
 - **Candidate_dataset**: Comprises sequences for which anti-inflammatory properties are unknown. The model predicts the potential of these sequences to be anti-inflammatory.
 
-- Usage
--Open the Jupyter Notebook
--Launch Jupyter Notebook or JupyterLab in the project directory:
-- bash - jupyter notebook
+## Usage
+- Open the Jupyter Notebook
+
+- Launch Jupyter Notebook or JupyterLab in the project directory:
+- bash - jupyter notebook or 
 - bash-jupyter lab
+  
 1.Run the Notebook
 2.Open the Fresh_final_123456.ipynb notebook and execute the cells sequentially to:
     - **Read and process the sequence data from Positive_dataset and Negative_dataset.**
