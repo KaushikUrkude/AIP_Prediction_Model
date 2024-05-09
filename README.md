@@ -18,7 +18,7 @@ The project utilizes three key datasets:
   
 - 1.Run the Notebook
 - 2.Open the Fresh_final_123456.ipynb notebook and execute the cells sequentially to:
-- 
+  
     - **Read and process the sequence data from Positive_dataset and Negative_dataset.**
     - **Extract features using biopython and propy.**
     - **Train the RandomForest model using 5-fold cross-validation.**
